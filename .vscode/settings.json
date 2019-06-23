@@ -1,0 +1,13 @@
+{
+    "restructuredtext.confPath": "${workspaceFolder}",
+    "files.exclude": {
+        "**/.pyc": true,
+        "*.bat": true,
+        "Makefile": true,
+        "conf.py": true,
+        ".git*": true,
+        "_build/": true,
+        "_static/": true,
+        "_templates/": true,
+    }
+}
