@@ -3,7 +3,7 @@
    You can adapt this file completely to your liking, but it should at least
    contain the root `toctree` directive.
 
-Documentación para el usuario de Odoo
+Documentación del usuario de Odoo
 ======================================
 
 .. toctree::
@@ -15,3 +15,4 @@ Documentación para el usuario de Odoo
    compras/compras.rst
    ventas/ventas.rst
    contabilidad/contabilidad.rst
+   general/general.rst
