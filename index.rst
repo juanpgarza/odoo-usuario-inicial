@@ -15,11 +15,3 @@ Welcome to prueba's documentation!
    compras/compras.rst
    ventas/ventas.rst
    contabilidad/contabilidad.rst
-   plantilla-doc.rst
-
-Indices and tables
-==================
-
-* :ref:`genindex`
-* :ref:`modindex`
-* :ref:`search`

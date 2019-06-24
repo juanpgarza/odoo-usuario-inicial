@@ -1,5 +1,5 @@
-Módulo 1: Primeros pasos con Odoo
-=================================
+Primeros pasos con Odoo
+=======================
 
 Introducción
 ------------
