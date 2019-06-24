@@ -6,9 +6,12 @@
 Documentación del usuario de Odoo
 ======================================
 
+
+Contenido
+----------
+
 .. toctree::
    :maxdepth: 2
-   :caption: Contents:
 
    primeros-pasos/primeros-pasos.rst
    inventario/inventario.rst
@@ -16,3 +19,14 @@ Documentación del usuario de Odoo
    ventas/ventas.rst
    contabilidad/contabilidad.rst
    general/general.rst
+
+
+Curso Inicial
+-------------------------
+
+.. toctree::
+   :maxdepth: 1
+
+   curso-inicial.rst 
+
+   

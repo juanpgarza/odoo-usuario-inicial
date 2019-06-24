@@ -309,6 +309,8 @@ De la misma manera, si estamos buscando en la vista **Producto**, el
 cuadro de búsqueda nos permitirá buscar registros de productos que hemos
 cargado en el sistema.
 
+Ver más sobre la búsqueda en: todo
+
 Elegir vistas diferentes
 ~~~~~~~~~~~~~~~~~~~~~~~~
 
@@ -326,6 +328,21 @@ movemos el mouse sobre el icono, obtendremos un tooltip que nos muestra
 la descripción de la vista.
 
 Vamos a cargar registros para poder explorar mejor la inteface de Odoo.
+
+Filtros
+~~~~~~~~~~~~~~~~~~~~~~~~
+
+TO DO
+
+Agrupación
+~~~~~~~~~~~~~~~~~~~~~~~~
+
+TO DO
+
+Favoritos
+~~~~~~~~~~~~~~~~~~~~~~~~
+
+TO DO
 
 Crear el primer cliente
 -----------------------
