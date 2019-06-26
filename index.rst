@@ -4,7 +4,7 @@
    contain the root `toctree` directive.
 
 Documentación del usuario de Odoo
-======================================
+==================================
 
 .. toctree::
    :maxdepth: 3
