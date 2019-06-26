@@ -1,5 +1,4 @@
 {
-    "restructuredtext.confPath": "${workspaceFolder}",
     "files.exclude": {
         "**/.pyc": true,
         "*.bat": true,
@@ -9,5 +8,6 @@
         "_build/": true,
         "_static/": true,
         "_templates/": true,
-    }
+    },
+    "restructuredtext.confPath": "${workspaceFolder}"
 }

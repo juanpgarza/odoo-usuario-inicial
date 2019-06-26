@@ -27,6 +27,8 @@ Crear una base de datos nueva
 El primer paso después de instalar Odoo es crear una base de datos para
 nuestra empresa.
 
+:doc:`Odoo Ubuntu <../instalacion/docker/docker>`
+
 Si acabamos de instalar una copia limpia de Odoo, Odoo nos muestra
 automáticamente la pantalla para crear la db.
 
