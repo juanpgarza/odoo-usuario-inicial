@@ -135,11 +135,3 @@ Dropshipping
 .. image:: media/oc-productos-logistica.png
    :align: center
    :scale: 75 %
-
-
-
-
-
-
-
-
