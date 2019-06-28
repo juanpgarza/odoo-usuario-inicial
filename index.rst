@@ -7,7 +7,7 @@ Documentación del usuario de Odoo
 ==================================
 
 .. toctree::
-   :maxdepth: 3
+   :maxdepth: 2
    :caption: Tabla de contenidos
    
    ../instalacion/instalacion.rst
