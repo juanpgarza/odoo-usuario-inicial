@@ -15,6 +15,56 @@ Aprobación de pedidos
    :align: center
    :scale: 75 %
 
+|
+
+.. image:: media/oc-pedidos-aprobacion-1.png
+   :align: center
+   :scale: 75 %
+
+|
+
+.. image:: media/oc-pedidos-aprobacion-2.png
+   :align: center
+   :scale: 75 %
+
+|
+
+.. image:: media/oc-pedidos-aprobacion-3.png
+   :align: center
+   :scale: 75 %
+
+|
+
+.. image:: media/oc-pedidos-aprobacion-4.png
+   :align: center
+   :scale: 75 %
+
+|
+
+.. image:: media/oc-pedidos-aprobacion-5.png
+   :align: center
+   :scale: 75 %
+
+|
+
+.. image:: media/oc-pedidos-aprobacion-6.png
+   :align: center
+   :scale: 75 %
+
+|
+
+.. image:: media/oc-pedidos-aprobacion-7.png
+   :align: center
+   :scale: 75 %
+
+|
+
+.. image:: media/oc-pedidos-aprobacion-8.png
+   :align: center
+   :scale: 75 %
+
+|
+
 *************************************************
 Avisos
 *************************************************
@@ -23,19 +73,43 @@ Avisos
    :align: center
    :scale: 75 %
 
+|
+
+.. image:: media/oc-pedidos-avisos-1.png
+   :align: center
+   :scale: 75 %
+
+|
+
+.. image:: media/oc-pedidos-avisos-2.png
+   :align: center
+   :scale: 75 %
+
+|
+
+.. image:: media/oc-pedidos-avisos-3.png
+   :align: center
+   :scale: 75 %
+
+|
+
+.. image:: media/oc-pedidos-avisos-4.png
+   :align: center
+   :scale: 75 %
+
+|
+
+.. image:: media/oc-pedidos-avisos-5.png
+   :align: center
+   :scale: 75 %
+
+
 *************************************************
 Más caracteristicas
 *************************************************
 
+
 .. image:: media/oc-pedidos.png
-   :align: center
-   :scale: 75 %
-
-.. image:: media/oc-facturacion.png
-   :align: center
-   :scale: 75 %
-
-.. image:: media/oc-productos-logistica.png
    :align: center
    :scale: 75 %
 
@@ -47,9 +121,25 @@ Control de facturación
 ======================
 
 
+
 Tarifa de compra
 ================
 
+.. image:: media/oc-facturacion.png
+   :align: center
+   :scale: 75 %
 
 Dropshipping
 ============
+
+.. image:: media/oc-productos-logistica.png
+   :align: center
+   :scale: 75 %
+
+
+
+
+
+
+
+
