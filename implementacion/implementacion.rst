@@ -12,3 +12,6 @@ implementación
     con los ejemplos de la mayoría de los módulos.
 
 3. Importación
+
+4. requerimientos de hardware del servidor
+

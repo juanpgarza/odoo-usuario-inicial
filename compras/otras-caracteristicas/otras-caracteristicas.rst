@@ -11,12 +11,6 @@ Vamos a ver algunos ejemplos:
 Aprobación de pedidos
 *************************************************
 
-.. image:: media/oc-pedidos-aprobacion.png
-   :align: center
-   :scale: 75 %
-
-|
-
 .. image:: media/oc-pedidos-aprobacion-1.png
    :align: center
    :scale: 75 %
