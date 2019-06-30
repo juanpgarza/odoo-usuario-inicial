@@ -3,7 +3,7 @@ Ventas
 ##################
 
 .. toctree::
-   :maxdepth: 2
+   :maxdepth: 3
    :caption: Tabla de contenidos
    
    atributos-y-variantes/atributos-y-variantes.rst
