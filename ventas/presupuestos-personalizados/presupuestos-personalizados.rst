@@ -128,8 +128,5 @@ Secciones en pedidos de venta
 
 |
 
-*************************************************
-Términos y condiciones predeterminados
-*************************************************
 
 
