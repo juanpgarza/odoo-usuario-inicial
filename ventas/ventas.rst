@@ -10,4 +10,4 @@ Ventas
    precios/precios.rst
    presupuestos-personalizados/presupuestos-personalizados.rst
    otras-caracteristicas/otras-caracteristicas.rst
-
+   odoo-12/odoo-12.rst
