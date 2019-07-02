@@ -1,6 +1,10 @@
-##################
+###################################################################################################
 Contabilidad
-##################
+###################################################################################################
 
-Aca tenemos que cambiar a la imagen de docker con la localización argentina. 
-Hasta ahora venía trabajando con la instalación de fábrica.
+.. toctree::
+   :maxdepth: 2
+   :caption: Tabla de contenidos
+   
+   intro/intro.rst
+   configuracion-inicial/configuracion-inicial.rst
