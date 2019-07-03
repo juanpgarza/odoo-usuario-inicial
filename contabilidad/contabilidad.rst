@@ -8,3 +8,5 @@ Contabilidad
    
    intro/intro.rst
    configuracion-inicial/configuracion-inicial.rst
+   documentos-compras/documentos-compras.rst
+   documentos-ventas/documentos-ventas.rst
