@@ -10,3 +10,5 @@ Contabilidad
    configuracion-inicial/configuracion-inicial.rst
    documentos-compras/documentos-compras.rst
    documentos-ventas/documentos-ventas.rst
+   cuentas-corrientes/cuentas-corrientes.rst
+   mas-modulos/mas-modulos.rst
