@@ -4,6 +4,10 @@ Localización Argentina de Odoo en Docker
 
 Los siguientes pasos indican como crear un entorno para ejecutar Odoo 11 (localización argentina) en docker.
 
+El tutorial esta verificado en una máquina virtual linux Ubuntu 16.04 server.
+Igualmente, debería funcionar correctamente en cualquier distribución de linux con docker 
+(y docker composer) instalados.
+
 1.  **Instalar docker** 
 
 Tutorial para instalar docker en ubuntu 16.04 y 18.04:
