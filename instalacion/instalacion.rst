@@ -11,6 +11,5 @@ Temas:
 .. toctree::
    :titlesonly:
    
-   docker/docker.rst    
-   odoo-docker/odoo-docker.rst
+   docker/docker.rst
    localizacion-argentina/localizacion-argentina.rst
