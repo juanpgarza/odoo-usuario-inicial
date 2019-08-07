@@ -71,18 +71,18 @@ cantidad en stock.
 
 Base de datos utilizada: Computotal-dev
 
-Cargamos un pedido de 2 unidades del producto mouse:
+1. Cargamos un pedido de 2 unidades del producto mouse:
 
 |image8|
 
-Confirmamos el pedido y seleccionamos la opción “Entrega”.
+2. Confirmamos el pedido y seleccionamos la opción “Entrega” (Botón inteligente del camioncito)
 
 |image9|
 
 Esto nos lleva al formulario de salida de stock que nos va a permitir
 confirmar la entrega.
 
-Hacemos clic en validar para confirmar.
+3. Hacemos clic en validar para confirmar.
 
 |image10|
 
@@ -92,7 +92,16 @@ cliente retira el total del pedido:
 
 |image11|
 
-Ahora consultamos el stock y vemos disminuyo en 2 unidades (10-2=8)
+
+4. La orden de entrega cambia al estado "Hecho".
+Desde la opción "Imprimir" podremos imprimir el remito de salida de la 
+mercadería.
+
+.. image:: media/orden-entrega-100.png
+   :align: center
+   :scale: 75 %
+
+5. Ahora consultamos el stock y vemos disminuyo en 2 unidades (10-2=8)
 
 |image12|
 
