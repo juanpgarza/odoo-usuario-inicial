@@ -70,6 +70,6 @@ exclude_patterns = ['_build', 'Thumbs.db', '.DS_Store']
 
 #https://pypi.org/project/sphinx-rtd-theme/#description
 # theme de readTheDocs
-html_theme = "sphinx_rtd_theme"
+# html_theme = "sphinx_rtd_theme"
 
 master_doc = 'index'
