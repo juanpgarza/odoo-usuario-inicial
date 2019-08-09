@@ -34,6 +34,11 @@ Para detener los contenedores hacemos:
 
    $ docker-compose down
 
+y para reiniciarlos:
+
+.. code-block:: console
+
+   $ docker-compose restart
 
 Docker compose es una herramienta que nos facilita la gestión de todos los recursos
 asociados al entorno de ejecución de docker.

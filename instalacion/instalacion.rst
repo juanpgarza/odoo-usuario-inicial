@@ -14,3 +14,4 @@ Temas:
    docker/docker.rst
    localizacion-argentina/localizacion-argentina.rst
    comandos-basicos-docker/comandos-basicos-docker.rst
+   configuracion-servidor-odoo/configuracion-servidor-odoo.rst
