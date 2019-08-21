@@ -7,3 +7,4 @@ Funcionalidades transversales
    :caption: Tabla de contenidos
    
    importar-exportar/importar-exportar.rst
+   openchatter/openchatter.rst
