@@ -13,6 +13,7 @@ Documentación del usuario de Odoo
    ../instalacion/instalacion.rst
    ../primeros-pasos/primeros-pasos.rst
    ../configuracion/configuracion.rst
+   ../funcionalidades-transversales/funcionalidades-transversales.rst
    ../inventario/inventario.rst
    ../compras/compras.rst
    ../ventas/ventas.rst
