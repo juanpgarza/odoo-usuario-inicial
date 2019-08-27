@@ -24,7 +24,9 @@ Solicitud de Presupuesto (SdP)
 Para este ejemplo vamos a ingresar una SdP nueva.
 
 Lo primero que vamos a hacer es verificar la cantidad de pedidos pendientes de recepción.
+
 Eso lo hacemos desde la opción "Tablero" de la aplicación de inventario.
+
 En este caso no tenemos envios pendientes de recepción:
 
 .. image:: media/pedidos-1.png
@@ -38,6 +40,7 @@ En este caso no tenemos envios pendientes de recepción:
    :scale: 75 %
 
 El paso siguiente es consultar los parámetros de la relación del producto con el proveedor.
+
 Esto se hace desde la pestaña "Compra" del formulario de producto. Hacemos clic sobre el renglon
 correspondiente de la lista:
 
@@ -54,10 +57,13 @@ En el formulario que se abre, vamos a prestar atención a los campos "Tiempo ini
 
 A continuación, vamos a cargar la SdP.
 Seleccionamos el proveedor. A la fecha de pedido le asigna automáticamente la fecha del día.
+
 Agregamos un elemento a la lista e informamos el producto (primer columna). Observemos que 
 el resto de las columnas se informan automáticamente.
+
 Las columnas "Fecha prevista", "Cantidad" y "Precio unitario" los obtiene de los parámetros
 informados en la relación producto-proveedor.
+
 La Fecha prevista se obtiene de sumarle el "Tiempo inicial de entrega" (2 días) a la fecha de
 pedido. La Cantidad y Precio unitario se obtienen de forma directa:
 
@@ -123,6 +129,7 @@ cantidad inferior al total pedido:
    :scale: 75 %
 
 Ahora nos muestra un aviso indicando que estamos recepcionando una cantidad menor a lo pedido.
+
 Seleccionamos "Crear entrega parcial" para que el sistema genere una nueva recepción (en estado preparada)
 para los productos pendientes.
 
@@ -132,6 +139,7 @@ para los productos pendientes.
 
 Si consultamos todas las recepciones de Comercio, podemos ver que el documento de Origen PO00002 tiene asociadas
 dos recepciones y que estas están vinculadas entre sí mediante el campo "Pedido en espera de".
+
 La recepción pendiente se encuentra en estado "Preparado":
 
 .. image:: media/pedidos-13.png
@@ -143,6 +151,7 @@ Consultar movimientos
 *************************************************
 
 Ahora consultemos el informe "Movimientos de productos" (desde Inventario/Informes).
+
 Observemos el movimiento con referencia "WH/IN/00002". Es la recepción que acabamos de generar
 para 3 unidades del producto mouse, con almacén de Origen (De) el del proveedor y como destino (Para) el 
 almacen del comercio.
