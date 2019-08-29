@@ -15,3 +15,4 @@ Temas:
    localizacion-argentina/localizacion-argentina.rst
    comandos-basicos-docker/comandos-basicos-docker.rst
    configuracion-servidor-odoo/configuracion-servidor-odoo.rst
+   odoo-12-ce/odoo-12-ce.rst
