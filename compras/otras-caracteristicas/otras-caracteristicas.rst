@@ -63,7 +63,7 @@ que existe un pedido en estado "Para Aprobar".
    :align: center
    :scale: 75 %
 
-Consultamos la vista individual y vemos que Odoo nos propone con paso siguiente "Aprobar Pedido".
+Consultamos la vista individual y vemos que Odoo nos propone como paso siguiente "Aprobar Pedido".
 Continuando con el ejemplo, aprobemos el pedido:
 
 .. image:: media/oc-pedidos-aprobacion-7.png

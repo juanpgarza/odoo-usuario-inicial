@@ -115,7 +115,7 @@ En esta vista de lista, vemos la fecha prevista, el documento de origen y el est
    :align: center
    :scale: 75 %
 
-Seleccionemos al recepción haciendo clic en la fila correspondiente.
+Seleccionemos la recepción haciendo clic en la fila correspondiente.
 
 *************************************************
 Recepción

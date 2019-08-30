@@ -7,9 +7,12 @@ Introduction text.
 *************************************************
 Estrategias para los precios de venta
 *************************************************
-"Existen dos formas de administrar las listas de precios:
+Existen dos formas de administrar las listas de precios:
+
 1. Múltiples precios por producto: debe establecerse en la pestaña Ventas del formulario del producto.
+
 2. Precio calculado a partir de fórmulas: debe establecerse en la lista de precios."
+
 
 Precio único por producto
 =========================
