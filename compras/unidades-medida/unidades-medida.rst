@@ -54,7 +54,7 @@ referencia para la categoría "Unidad" será más grande con un ratio de 100.
    :align: center
    :scale: 75 %
 
-.. image:: media/unidad-medida-7-1.png
+.. image:: media/unidad-medida-7-2.png
    :align: center
    :scale: 75 %
 
