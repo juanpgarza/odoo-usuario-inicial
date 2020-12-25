@@ -41,7 +41,7 @@ Nota: si ya tenes la estructura odoo-dev creada, deberás ejecutar:
    $ cd 13/proyecto1
    $ sudo mkdir src/
    $ cd src/
-   $ sudo git clone https://github.com/odoo/odoo.git --branch master --depth 1 --single-branch .
+   $ sudo git clone https://github.com/odoo/odoo.git --branch 13.0 --depth 1 --single-branch .
 
 6.  **Generar la imagen de docker** 
 
